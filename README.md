@@ -1,5 +1,5 @@
 # FTP-Implementation-Project
-This Project is basic Implementation of FTP (file Transfer Protocol) through which we can transfer files and folders between two remote machines say server-client. This Project is done using Linux server and C programming.
+This Project is basic Implementation of FTP (file Transfer Protocol) through which we can transfer files and folders between two remote machines say server-client. This Project is done using Linux OS and C programming.
 
 #In this image we add the port number and ip address first in server and then in client
 <img width="956" alt="2021-11-19" src="https://user-images.githubusercontent.com/86849427/144412727-90f75b34-1342-4ca7-8a62-b26c608a1e0f.png">
