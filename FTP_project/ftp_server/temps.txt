@@ -1,0 +1,8 @@
+details
+sample.txt
+server.c
+server.out
+server_details.txt
+server_details.txt1
+temp.txt
+temps.txt
